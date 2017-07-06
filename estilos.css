@@ -1,0 +1,113 @@
+body  {
+    background-image: url("http://1.bp.blogspot.com/-Aa8BS77PbnI/VJIF_mUmOUI/AAAAAAADQ5I/uih2G9bq08g/s1600/0_8c1fb_bc2198e3_L.jpg");
+   background-attachment: fixed;
+   background-position: center center;
+   background-size: cover;
+}
+
+#Lista{
+ font-size: 19px;
+ font-weight: bold;
+ color: black;
+}
+
+.Lista1{
+  border: solid 1px black;
+  padding: 12px;
+  background-color: rgb(211, 232, 236);
+  border-radius: 4px;
+  margin-top: 6px;
+  width: 109%;
+  font-weight: bold;
+}
+li{
+  list-style: none;
+}
+
+#perfil{
+  width: 100%;
+  padding-left: 40px;
+  height:420px;
+}
+
+.Esqueletocv{
+  width:70%;
+  float:right;
+}
+
+.Bloque1{
+  margin: 0 0 25px;
+overflow: hidden;
+padding: 20px;
+background-color: white;
+border: 1px solid rgb(91, 174, 242);
+width: 70%;
+font-weight: bold;
+}
+
+.menu{
+  width: 20%;
+  float: left;
+}
+
+.Bloque2{
+  margin: 25px 0 0;
+overflow: hidden;
+padding: 20px;
+background-color: white;
+width: 70%;
+font-weight: bold;
+border: 1px solid rgb(91, 174, 242);
+}
+
+.Bloque3{
+  margin: 25px 0 0px;
+  overflow: hidden;
+padding: 20px;
+background-color: white;
+width: 70%;
+font-weight: bold;
+border: 1px solid rgb(91, 174, 242);
+}
+
+.Bloque4{
+  margin: 25px 0 0px;
+overflow: hidden;
+padding: 20px;
+background-color: white;
+width: 70%;
+font-weight: bold;
+border: 1px solid rgb(91, 174, 242);
+}
+
+.Bloque5{
+  margin: 25px 0 25px;
+overflow: hidden;
+padding: 20px;
+background-color: white;
+width: 70%;
+font-weight: bold;
+border: 1px solid rgb(91, 174, 242);
+}
+
+.Titulos{
+border-bottom: 8px solid rgb(109, 72, 135);
+}
+
+h4{
+  font-size: 25px;
+}
+
+h5{
+  font-size: 18px;
+}
+#noticiasimg{
+  height: 50%;
+  width: 50%;
+  padding-left: 150px;
+}
+#puzzleimg{
+  height: 55%;
+  width: 55%;
+  padding-left: 150px;
+}
